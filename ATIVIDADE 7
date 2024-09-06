@@ -1,0 +1,6 @@
+drop table tbusuarios;
+
+alter table tbfuncionarios rename tbfuncionario;
+alter table tbfuncionario rename column Guerra to area;
+alter table tbfuncionario rename column Turno to turno;
+alter table tbfuncionario rename column Funcao to funcao;
