@@ -1,0 +1,6 @@
+drop database supermercado_1e;
+drop database estoque_1e;
+drop database restaurante_1e;
+drop database controle_vendas_1e;
+drop database biblioteca_1e;
+drop database lojavirtual_1e;
