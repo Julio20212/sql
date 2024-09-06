@@ -1,0 +1,2 @@
+alter table pessoa rename column data_nasc to datanascimento;
+alter table pessoa drop column morada;
