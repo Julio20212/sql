@@ -1,0 +1,10 @@
+#create database empresa_1e;
+#use empresa_1e;
+
+
+
+create table cliente(
+codigo integer,
+nome varchar(50),
+endereco varchar(50)
+);
