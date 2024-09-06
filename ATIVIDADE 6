@@ -35,18 +35,18 @@ describe pessoa;
 
 
 create table tbfuncionarios(
-idfunc integer,
-nome varchar(50),
-registro integer,
-guerra varchar(30),
-gerencia varchar(20),
-det varchar(20),
-turno varchar(10),
-cargo varchar(30),
-atividade varchar(50),
-funcao varchar(30),
-vinculo varchar(30),
-situacao varchar(30),
+Idfunc integer,
+Nome varchar(50),
+Registro integer,
+Guerra varchar(30),
+Gerencia varchar(20),
+Det varchar(20),
+Turno varchar(10),
+Cargo varchar(30),
+Atividade varchar(50),
+Funcao varchar(30),
+Vinculo varchar(30),
+Situacao varchar(30),
 PRIMARY KEY (registro)
 );
 
