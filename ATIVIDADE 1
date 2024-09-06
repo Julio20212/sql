@@ -1,0 +1,7 @@
+create database locadoras_1e;
+create database supermercado_1e;
+create database estoque_1e;
+create database restaurante_1e;
+create database controle_vendas_1e;
+create database biblioteca_1e;
+create database lojavirtual_1e;
