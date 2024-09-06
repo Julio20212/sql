@@ -1,10 +1,20 @@
 #create database empresa_1e;
 #use empresa_1e;
 
-
-
 create table cliente(
 codigo integer,
 nome varchar(50),
 endereco varchar(50)
 );
+
+describe cliente;
+
+CREATE TABLE produto(
+cod integer,
+descricao varchar(40),
+valor float);
+
+describe produto;
+
+drop table cliente;
+drop table produto;
